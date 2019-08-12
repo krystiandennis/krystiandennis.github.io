@@ -1,11 +1,11 @@
 # Site settings
 author: Krystian Dennis
-title: 
+title: The Art of Data Science
 header-img: img/home-bg.png
 email: krystiandennis@gmail.com
 copyright_name: Krystian Dennis
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Had to come up with something on the spot! 
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  krystiandennis
