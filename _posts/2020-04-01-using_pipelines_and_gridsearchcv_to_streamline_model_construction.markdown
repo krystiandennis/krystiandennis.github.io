@@ -5,7 +5,7 @@ date:       2020-04-01 15:54:18 -0400
 permalink:  using_pipelines_and_gridsearchcv_to_streamline_model_construction
 ---
 
-![](https://imgur.com/NKKCxvp)
+![](https://imgur.com/NKKCxvp.jpg)
 
 For my 5th project for Flatiron School's Online Data Science Boot camp, I chose to build classification models that will predict whether or not a flight will be delayed During the Holiday Travel Season, which is considered December 21-January 2 every year.
 
