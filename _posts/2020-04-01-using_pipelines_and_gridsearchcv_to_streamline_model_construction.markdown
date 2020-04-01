@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Using Pipelines and GridSearchCV to streamline model construction"
-date:       2020-04-01 19:54:17 +0000
+date:       2020-04-01 15:54:18 -0400
 permalink:  using_pipelines_and_gridsearchcv_to_streamline_model_construction
 ---
 
