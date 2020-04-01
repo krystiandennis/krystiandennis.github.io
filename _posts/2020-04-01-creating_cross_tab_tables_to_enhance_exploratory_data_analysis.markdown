@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Creating Cross tab Tables to Enhance Exploratory Data Analysis"
-date:       2020-04-01 19:46:30 +0000
+date:       2020-04-01 15:46:31 -0400
 permalink:  creating_cross_tab_tables_to_enhance_exploratory_data_analysis
 ---
 
@@ -26,7 +26,7 @@ counts.index= ["Negative","Neutral","Positive", "col_total"]
 counts
 ```
 
-![](https://imgur.com/U3MSLnu)
+![](https://imgur.com/U3MSLnu.jpg)
 Jazzed up output using PowerPoint
 
 Next, I needed to convert these counts into percentages. To do that, I divided all of the counts by the column total.
@@ -36,7 +36,7 @@ print('Percentge of Tweet Sentiment Type\n')
 counts/counts.ix["col_total"]
 ```
 
-![](https://imgur.com/Aad9nZ2)
+![](https://i.imgur.com/qiSbEis.png)
 Jazzed up output using PowerPoint
 
 Once I had the percentage of tweet sentiment by class, I could create a percent stacked bar graph.
@@ -69,6 +69,6 @@ plt.show()
 ```
 
 The code above created the following Percent Stacked Bar Graph, my first ever!
-![](https://imgur.com/Aad9nZ2)
+![](https://imgur.com/Aad9nZ2.jpg)
 
 Looks good to me! I want to show the corresponding percentage in the future, and even graduate to making interactive plots using plotly. I'm off to a good start. I learned so many mew skills during my capstone project, and in the Flatiron School Boot Camp overall. Glad I could share with you how to create a graph like this for your projects.
